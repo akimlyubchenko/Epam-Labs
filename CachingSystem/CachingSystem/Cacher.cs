@@ -2,6 +2,7 @@
 using System.Runtime.Caching;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace CachingSystem
 {
@@ -20,7 +21,6 @@ namespace CachingSystem
             }
 
             throw new ArgumentException("File passed away or not set");
-    
     }
 
         public void SetCache(object obj, double timeLive, string tag)
