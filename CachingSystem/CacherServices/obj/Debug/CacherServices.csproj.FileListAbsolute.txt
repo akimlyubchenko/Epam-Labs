@@ -1,0 +1,6 @@
+D:\epam-lab\Epam-Labs\CachingSystem\CacherServices\bin\Debug\CacherServices.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CacherServices\bin\Debug\CacherServices.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CacherServices\obj\Debug\CacherServices.csproj.CoreCompileInputs.cache
+D:\epam-lab\Epam-Labs\CachingSystem\CacherServices\obj\Debug\CacherServices.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CacherServices\obj\Debug\CacherServices.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CacherServices\obj\Debug\CacherServices.csprojAssemblyReference.cache

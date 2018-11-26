@@ -1,0 +1,14 @@
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\CachingSystem.Test.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\CachingSystem.Test.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\CacherServices.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\Moq.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\CacherServices.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\Moq.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\bin\Debug\Moq.xml
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\obj\Debug\CachingServices.Test.csproj.CoreCompileInputs.cache
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\obj\Debug\CachingServices.Test.csproj.CopyComplete
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\obj\Debug\CachingSystem.Test.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\obj\Debug\CachingSystem.Test.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem.Test\obj\Debug\CachingServices.Test.csprojAssemblyReference.cache

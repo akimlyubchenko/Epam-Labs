@@ -1,0 +1,12 @@
+C:\Users\Akim_\source\repos\CachingSystem\CachingSystem\bin\Debug\CachingSystem.dll
+C:\Users\Akim_\source\repos\CachingSystem\CachingSystem\bin\Debug\CachingSystem.pdb
+C:\Users\Akim_\source\repos\CachingSystem\CachingSystem\obj\Debug\CachingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Akim_\source\repos\CachingSystem\CachingSystem\obj\Debug\CachingSystem.dll
+C:\Users\Akim_\source\repos\CachingSystem\CachingSystem\obj\Debug\CachingSystem.pdb
+C:\Users\Akim_\source\repos\CachingSystem\CachingSystem\obj\Debug\CachingSystem.csprojAssemblyReference.cache
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem\bin\Debug\CachingSystem.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem\bin\Debug\CachingSystem.pdb
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem\obj\Debug\CachingSystem.csprojAssemblyReference.cache
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem\obj\Debug\CachingSystem.csproj.CoreCompileInputs.cache
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem\obj\Debug\CachingSystem.dll
+D:\epam-lab\Epam-Labs\CachingSystem\CachingSystem\obj\Debug\CachingSystem.pdb

@@ -65,10 +65,10 @@ namespace CacherServices
 
             if (obj == null || timeLive < 0.0 || string.IsNullOrEmpty(tag))
             {
-                logger.Log("One of parametrs isn't valid, check them:\n" +
+                logger.Log("One of parameters isn't valid, check them:\n" +
                     $"Object: {obj}\nTag: {tag}\nTime live: {timeLive}");
 
-                throw new ArgumentException("One of parametrs isn't valid, check them:\n" +
+                throw new ArgumentException("One of parameters isn't valid, check them:\n" +
                     $"Object: {obj}\nTag: {tag}\nTime live: {timeLive}");
             }
 

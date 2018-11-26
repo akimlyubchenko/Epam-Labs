@@ -10,7 +10,7 @@ namespace CachingSystem.Test
     [TestClass]
     public class CacherServicesTests
     {
-        private readonly CacherServices.ILoggingServices logger = new CacherServices.LoggingServices();
+        private readonly ILoggingServices logger = new CacherServices.LoggingServices();
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
